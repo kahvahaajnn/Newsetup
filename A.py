@@ -7,7 +7,7 @@ from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton
 
 
 # insert your Telegram bot token here
-bot = telebot.TeleBot('7819992909:AAHfbmckp2vxVRCmu9hhFq42q_hWZfvu1HM')
+bot = telebot.TeleBot('8016978575:AAGtZq2YIQKIdUuDsx-tb8APm5_SPystyTs')
 
 # Admin user IDs
 admin_id = ["1662672529"]
